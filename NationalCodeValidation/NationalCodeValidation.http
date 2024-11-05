@@ -1,0 +1,6 @@
+@NationalCodeValidation_HostAddress = http://localhost:5290
+
+GET {{NationalCodeValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

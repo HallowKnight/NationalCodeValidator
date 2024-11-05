@@ -1,0 +1,7 @@
+C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\obj\Debug\net8.0\NationalCodeValidation.csproj.AssemblyReference.cache
+C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\obj\Debug\net8.0\NationalCodeValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\obj\Debug\net8.0\NationalCodeValidation.AssemblyInfoInputs.cache
+C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\obj\Debug\net8.0\NationalCodeValidation.AssemblyInfo.cs
+C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\obj\Debug\net8.0\NationalCodeValidation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\obj\Debug\net8.0\NationalCodeValidation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\obj\Debug\net8.0\NationalCodeValidation.MvcApplicationPartsAssemblyInfo.cache
