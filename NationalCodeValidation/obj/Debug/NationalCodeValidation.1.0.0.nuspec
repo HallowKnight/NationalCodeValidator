@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NationalCodeValidation</id>
+    <version>1.0.0</version>
+    <authors>NationalCodeValidation</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="91834e03a095a1820359ee81fda64901dc4945b6" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.OpenApi" version="8.0.6" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0/appsettings.Development.json" buildAction="Content" />
+      <files include="any/net8.0/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\bin\Debug\net8.0\NationalCodeValidation.runtimeconfig.json" target="lib\net8.0\NationalCodeValidation.runtimeconfig.json" />
+    <file src="C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\bin\Debug\net8.0\NationalCodeValidation.dll" target="lib\net8.0\NationalCodeValidation.dll" />
+    <file src="C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\appsettings.Development.json" target="contentFiles\any\net8.0\appsettings.Development.json" />
+    <file src="C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\appsettings.json" target="content\appsettings.json" />
+    <file src="C:\Users\Hp\RiderProjects\NationalCodeValidation\NationalCodeValidation\appsettings.json" target="contentFiles\any\net8.0\appsettings.json" />
+  </files>
+</package>
